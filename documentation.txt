@@ -1,0 +1,5 @@
+Suunnitelmana on saada sivu jossa on otsikko, hakukenttä, johon voi kirjoittaa kaupungin ja kenttä, johon tulee säätiedot esille. 
+
+Värimaailma on valkoinen/vaaleansininen, joka sopii sääsivun väreiksi. Kokeilen eri värisävyjä käyttämällä väriympyrää.
+
+Valitsen otsikolle ja muille teksteille sopivat tyylit ja fonttikoot, jotka sopivat yhteen hyvin. 

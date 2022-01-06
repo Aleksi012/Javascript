@@ -1,0 +1,41 @@
+.input {
+    text-align: center;
+}
+
+.inputValue {
+    font-size: 30px;
+}
+
+#submitnappi {
+    font-size: 30px;
+}
+
+#h1 {
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.display {
+    background-color: rgb(39, 179, 179);
+}
+
+body {
+    background-repeat: no-repeat;
+}
+
+.name {
+    font-size: 35px;
+    color: white;
+}
+
+.desc {
+    font-size: 35px;
+    color: white;
+}
+
+.temp {
+    font-size: 35px;
+    color: white;
+}
